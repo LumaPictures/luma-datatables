@@ -1,2 +1,2 @@
-Rename to [jQuery DataTables](https://github.com/lumapictures/meteor-jquery-datatables)
-=============================
+Renamed to [jQuery DataTables](https://github.com/lumapictures/meteor-jquery-datatables)
+========================================================================================
